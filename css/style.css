@@ -368,12 +368,14 @@ table {
 @font-face {
   font-family: MontserratT;
   src: url(../font/Montserrat-Regular.ttf);
+  font-display: swap;
   font-weight: regular;
   font-style: normal;
 }
 @font-face {
   font-family: MontserratT;
   src: url(../font/Montserrat-SemiBold.ttf);
+  font-display: swap;
   font-weight: regular;
   font-style: normal;
 }
